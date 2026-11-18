@@ -1,0 +1,11 @@
+Shura ללינוקס
+=============
+1. פעם אחת, בטרמינל:
+     sudo pacman -S --needed python-gobject python-cairo gtk3 gtk-layer-shell
+2. הפעלה:
+     python3 shura.py
+3. כדי שיופיע בתפריט האפליקציות:
+     python3 shura.py --install
+
+עובד עם אפליקציית ספוטיפיי הרשמית (גם Flatpak), על KDE Wayland ועל X11.
+הפעלה נוספת מחזירה את החלון אם הוסתר. לחיצה ימנית להגדרות.
