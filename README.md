@@ -24,6 +24,20 @@ No installer, no account. Lyrics come from [lrclib.net](https://lrclib.net).
 - **Game mode (Windows):** stays on top of borderless full-screen games such as League of Legends, lets clicks pass through to the game and moves away from the minimap
 - Never takes focus, fades out when the music is paused
 
+## Lyric styles & backgrounds (Windows)
+
+Right-click → **Lyric style**:
+
+| Style | Looks like |
+|---|---|
+| Modern | Word-by-word highlight with a glow (default) |
+| Headlines | Big, heavy words popping in one at a time, like Instagram lyric stickers |
+| Typewriter | Monospace text typed out letter by letter, lines piling up |
+| Simple | Plain lines, no effects |
+
+Right-click → **Background**: moving blurred cover, the album cover itself, a solid colour from the cover, or plain dark.
+If Windows doesn't provide the cover, Shura looks it up online (iTunes search).
+
 ## Windows
 
 1. Download `Shura.exe` and run it.
